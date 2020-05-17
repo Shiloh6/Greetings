@@ -7,4 +7,7 @@ import greetings
 
 # Say hello to any name
 greetings.sayHello('Shiloh')
+
+# Say bye to any name
+greetings.sayBye('Shiloh)
 ```
